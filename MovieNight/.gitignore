@@ -1,0 +1,42 @@
+# Xcode
+#
+# gitignore contributors: remember to keep this file platform-agnostic
+# gitignore test coverage: https://github.com/github/gitignore/pull/2942
+
+## User-specific
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.app
+*.xcodeproj/project.xcworkspace
+*.xcworkspace
+!default.xcworkspace
+*.xcodeproj/xcuserdata
+*.xcschemes/
+
+## Other
+*.moved-aside
+*.xcuserstate
+*~
+
+# Swift Package Manager
+
+.build/
+Packages/
+*.xcodeproj
+*.xcworkspace
+
+# Custom Rule
+MovieNight/API/API.swift
