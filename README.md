@@ -42,8 +42,8 @@ An application that allows the user to select their favorite genres when first e
 
 **Optional Nice-to-have Stories**
 
-* Suggest a random movie based on indicated liked genres.
-* A "Delete all" button to remove all data.
+- [x] Suggest a random movie based on indicated liked genres.
+- [x] A "Delete all" button to remove all data.
 
 ### 2. Screen Archetypes
 
@@ -68,14 +68,14 @@ An application that allows the user to select their favorite genres when first e
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Genre Selection
+- [x] Genre Selection
 * Select liked genres, and press continue when finished.
-- [ ] Movies Browser
+- [x] Movies Browser
 * Click on movies to bring up a full screen easier to read description, and either click save for later in that bigger screen or swipe left on the movie in the movie browser to save a movie.
-- [ ] Save for Later
+- [x] Save for Later
 * Swipe right to delete movies off the list.
 * Click on the movie to see a bigger version of it.
-- [ ] Settings
+- [x] Settings
 * Change liked genres.
 * Clear all app data.
 
