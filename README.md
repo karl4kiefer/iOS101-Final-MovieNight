@@ -34,11 +34,11 @@ An application that allows the user to select their favorite genres when first e
 
 **Required Must-have Stories**
 
-* Persistant data when app is closed and reopened.
-* Selectable genres, with movie suggestions based on those.
-* Movie browser to look through movies.
-* Save for later tab to save and delete possible watches.
-* Settings tab to allow the user to change liked genres.
+- [x] Persistant data when app is closed and reopened.
+- [x] Selectable genres, with movie suggestions based on those.
+- [x] Movie browser to look through movies.
+- [x] Save for later tab to save and delete possible watches.
+- [x] Settings tab to allow the user to change liked genres.
 
 **Optional Nice-to-have Stories**
 
@@ -47,13 +47,13 @@ An application that allows the user to select their favorite genres when first e
 
 ### 2. Screen Archetypes
 
-- [ ] Genre Selection Screen
+- [x] Genre Selection Screen
 * Selectable genres, with movie suggestions based on those.
-- [ ] Movie Browser
+- [x] Movie Browser
 * Movie browser to look through movies.
-- [ ] Save for Later
+- [x] Save for Later
 * Save for later tab to save and delete possible watches.
-- [ ] Settings Tab
+- [x] Settings Tab
 * Persistant data when app is closed and reopened.
 * Settings tab to allow the user to change liked genres.
 
